@@ -26,3 +26,12 @@ Welcome to my Networking Journey repository where I document my hands on learnin
 ├── Tools/
 │   └── useful-commands.md
 
+TOOLS I AM USING:
+💧CMD / Terminal
+💧Wireshark
+💧Packet Tracer
+💧Notion (for extended notes)
+💧GitHub (to track everything here)
+
+
+
